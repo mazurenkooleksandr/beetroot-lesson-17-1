@@ -103,18 +103,8 @@ body {
   margin: 5px;
   padding: 10px;
   margin-top: 70px;
-  -webkit-box-shadow: 100px 0px 0 -85px #fff,
-  0px 100px 0 -85px #fff,
-  -100px 0px 0 -85px #fff,
-  0px -100px 0 -85px #fff,
-  0px 100px 0 -100px #ffcc00,
-  0 0 0 2px #ffcc00;
- box-shadow: 100px 0px 0 -85px #fff,
-  0px 100px 0 -85px #fff,
-  -100px 0px 0 -85px #fff,
-  0px -100px 0 -85px #fff,
-  0px 100px 0 -100px #ffcc00,
-  0 0 0 2px #ffcc00;
+  -webkit-box-shadow: 100px 0px 0 -85px #fff, 0px 100px 0 -85px #fff, -100px 0px 0 -85px #fff, 0px -100px 0 -85px #fff, 0px 100px 0 -100px #ffcc00, 0 0 0 2px #ffcc00;
+          box-shadow: 100px 0px 0 -85px #fff, 0px 100px 0 -85px #fff, -100px 0px 0 -85px #fff, 0px -100px 0 -85px #fff, 0px 100px 0 -100px #ffcc00, 0 0 0 2px #ffcc00;
 }
 
 #tab_1 .main-container .fourth-container .fourth-container__image {
@@ -407,18 +397,8 @@ body {
   margin: 5px;
   padding: 10px;
   margin-top: 70px;
-  -webkit-box-shadow: 100px 0px 0 -85px #fff,
- 0px 100px 0 -85px #fff,
- -100px 0px 0 -85px #fff,
- 0px -100px 0 -85px #fff,
- 0px 100px 0 -100px pink,
- 0 0 0 2px pink;
-          box-shadow: 100px 0px 0 -85px #fff,
- 0px 100px 0 -85px #fff,
- -100px 0px 0 -85px #fff,
- 0px -100px 0 -85px #fff,
- 0px 100px 0 -100px pink,
- 0 0 0 2px pink;
+  -webkit-box-shadow: 100px 0px 0 -85px #fff, 0px 100px 0 -85px #fff, -100px 0px 0 -85px #fff, 0px -100px 0 -85px #fff, 0px 100px 0 -100px pink, 0 0 0 2px pink;
+          box-shadow: 100px 0px 0 -85px #fff, 0px 100px 0 -85px #fff, -100px 0px 0 -85px #fff, 0px -100px 0 -85px #fff, 0px 100px 0 -100px pink, 0 0 0 2px pink;
 }
 
 #tab_2 .main-container .fourth-container .fourth-container__image {
@@ -712,18 +692,8 @@ body {
   margin: 5px;
   padding: 10px;
   margin-top: 70px;
-  -webkit-box-shadow: 100px 0px 0 -85px #fff,
- 0px 100px 0 -85px #fff,
- -100px 0px 0 -85px #fff,
- 0px -100px 0 -85px #fff,
- 0px 100px 0 -100px green,
- 0 0 0 2px green;
-          box-shadow: 100px 0px 0 -85px #fff,
- 0px 100px 0 -85px #fff,
- -100px 0px 0 -85px #fff,
- 0px -100px 0 -85px #fff,
- 0px 100px 0 -100px green,
- 0 0 0 2px green;
+  -webkit-box-shadow: 100px 0px 0 -85px #fff, 0px 100px 0 -85px #fff, -100px 0px 0 -85px #fff, 0px -100px 0 -85px #fff, 0px 100px 0 -100px green, 0 0 0 2px green;
+          box-shadow: 100px 0px 0 -85px #fff, 0px 100px 0 -85px #fff, -100px 0px 0 -85px #fff, 0px -100px 0 -85px #fff, 0px 100px 0 -100px green, 0 0 0 2px green;
 }
 
 #tab_3 .main-container .fourth-container .fourth-container__image {
